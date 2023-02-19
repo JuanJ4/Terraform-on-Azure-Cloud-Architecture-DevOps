@@ -98,21 +98,3 @@
 31. element function
 32. lookup function
 33. Remote State Datasource
-
-
-
-## What will students learn in your course?
-- You will learn to master Terraform in a Real-world perspective with 25 demo's on Azure Cloud with 20+ Azure Services and 30+ Terraform Concepts
-- You will build Azure Virtual Network 4-Tier design with Subnets and Network Security Groups
-- You will build infrastructure incrementally on Azure Cloud from simple VM to complex designs like load balancing across regions using Azure Traffic Manager with Terraform
-- You will build Standard Load Balancer External and Internal with Inbound NAT Rules using Terraform
-- You will learn and build Virtual Machine Scale Sets Manual and Autoscaling Profile concepts like default, recurrence and Fixed Time profiles with Terraform
-- You will build Azure Public and Private DNS Zones using Terraform
-- You will implement IaC DevOps usecase using Azure DevOps Build and Release Pipleines for your Terraform Configurations 
-- You will build Azure Application Gateway usecases like Context Path Routing, Mutlsite Hosting, SSL, HTTP to HTTPS Redirect and AG Error Pages
-- You will build a DNS to DB usecase with Azure MySQL Single Server with Virtual Network Rules and Service Endpoint concepts in Azure
-- You will learn in detail about Terrafrom State, Local and Remote Backends. 
-- You will learn and implement all Terraform Provisioners 
-- You will learn and implement Terraform Modules with 2 types (Public Modules and Local Modules) and also publish a module to Terraform Public Registry
-- You will implement Terraform Remote State Datasource concept for Load balancing across regions using Azure Traffic Manager and Azure Standard Load Balancer
-
